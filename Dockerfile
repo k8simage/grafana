@@ -1,2 +1,2 @@
-FROM grafana/grafana:3.1.1
+FROM grafana/grafana:latest
 MAINTAINER cheneydc <cheneydc@gmail.com>
